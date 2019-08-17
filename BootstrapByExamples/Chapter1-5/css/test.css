@@ -1,0 +1,83 @@
+header#header .row{
+	background-color:#000033;
+	padding:0.1rem 0.5rem;
+}
+header#header h3{
+	color:#fff;
+	font-weight:normal;
+	margin:2rem;
+}
+header#header ul{
+	margin:2rem;
+}
+header#header a:link{
+	color:#fff;
+}
+header#header a:hover{
+	text-decoration:none;
+	color:#989898;
+}
+section#header-intro .row{
+	background-image: url('../img/desert.jpg');
+	background-size:cover;
+}
+section#header-intro hr{
+	width:30%;
+}
+section#header-intro .wrapper{
+	text-align:center;
+	position:relative;
+	padding-top:20%;
+	padding-bottom:20%;
+}
+section#about .row{
+	padding:1rem 0;
+}
+section#features .row{
+	text-align:center;
+	background-color:#006699;
+}
+section#pricing table, section#pricing th, section#pricing h2{
+	text-align:center;
+}
+section#pricing th.success, section#pricing td.success{
+	background-color:#009933;
+	color:#fff;
+}
+section#pricing th.info, section#pricing td.info{
+	background-color:#3399FF;
+	color:#fff;
+}
+section#pricing th.danger, section#pricing td.danger{
+	background-color:#CC3333;
+	color:#fff;
+}
+section#news-letter{
+	padding:3rem 2rem;
+	text-align:center;
+}
+footer div.row{
+	background-color:#333333;
+	padding:3rem 2rem;
+	color:#989898;
+}
+footer div.row address, footer div.row h4{
+	color:#fff;
+}
+footer div.row address{
+	color:#989898;
+}
+footer div.row address strong{
+	color:#fff;
+	display:block;
+}
+footer div.row a:link{
+	color:#989898;
+}
+footer div.row a:hover{
+	color:#fff;
+	text-decoration:none;
+}
+
+
+

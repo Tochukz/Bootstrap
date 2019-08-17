@@ -1,0 +1,19 @@
+.wrapping-flex{
+	display:flex;
+	display:-webkit-flex;
+	background-color:#ccc;
+}
+.wrapping-flex div{
+	background-color:#E85749;
+	margin:1rem;
+	padding:1.5rem;
+}
+#wrapping_flex2{
+	height:12rem;
+	/*width:50%;
+	margin-left:20%;*/
+}
+#wrapping_flex2 .item2{
+	height:5rem;
+	align-self:center;
+}
