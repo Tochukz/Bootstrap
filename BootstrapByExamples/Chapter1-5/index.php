@@ -2,8 +2,7 @@
 <html>
 <head lang="en">
     <title>Bootstrap Landing Page</title>
-    <link rel="stylesheet" href="http://localhost/local-cdn/bootstrap-3.3.4-dist/css/bootstrap.min.css">
-    <!--<link rel="stylesheet" href="http://localhost/local-cdn/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/base.css" />
     <meta charset="UTF-8" />
     <meta name="X-UA-Compatible" content="IE=edge" />
@@ -37,10 +36,11 @@
    
     <div class="collapse navbar-collapse navbar-right" id="nav-menu">
         <ul class="nav navbar-nav"> 
-            <li><a href="#about"> About </a></li>
-            <li><a href="#features"> Features </a></li>
-            <li><a href="#pricing"> Pricing </a></li>
-            <li><a href="#contact"> Contact </a></li>
+            <li><a href="/example1.php"> Example 1 </a></li>
+            <li><a href="/example2.php"> Example2 </a></li>
+            <li><a href="/flexbox.html"> FlexBox </a></li>
+            <li><a href="/contact.php"> Contact </a></li>
+            <li><a href="/practice.php"> Practice </a></li>
         </ul>
     </div>
 </nav>
@@ -389,9 +389,8 @@
     </div>
 </footer>
 
-<script src="http://localhost/local-cdn/jquery/jquery-1.11.3.min.js"></script>
-<script src="http://localhost/local-cdn/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
-<!--<script src="http://localhost/local-cdn/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js"></script>-->
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <script src="js/main.js"> </script>
 
 </body>

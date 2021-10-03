@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <title>Bootstrap Landing Page</title>
-    <link rel="stylesheet" href="http://localhost/local-cdn/bootstrap-3.3.4-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/base.css" />
     <meta charset="UTF-8" />
     <meta name="X-UA-Compatible" content="IE=edge" />
@@ -107,8 +107,8 @@
     </div>
 </footer>
 
-<script src="http://localhost/local-cdn/jquery/jquery-1.11.3.min.js"></script>
-<script src="http://localhost/local-cdn/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 <script src="js/main.js"> </script>
 </body>
 </html>

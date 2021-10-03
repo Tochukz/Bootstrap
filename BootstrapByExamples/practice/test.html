@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tesing CSS</title>
+<style type="text/css">
+html{
+	height:100%;
+}
+body{
+	background-color:skyblue;
+	height:100%;
+}
+.flexContainer{
+	display:-webkit-box;
+	display:-moz-box;
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	display:flex;
+	height:100%;
+	background-color:silver;
+	align-items:flex-end;
+}
+.flexElement{
+
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+.h100px{
+	height:100px;
+}
+.h200px{
+	height:200px;
+}
+.h300px{
+	height:300px;
+}
+</style>
+</head>
+<body>
+<div class="flexContainer">
+	<div class="flexElement blue h200px">
+		Element 1
+	</div>
+	<div class="flexElement red h300px">
+		Element 2
+	</div>
+	<div class="flexElement green h100px">
+		Element 3
+	</div>
+</div>
+</body>
+</html>

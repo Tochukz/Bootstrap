@@ -3,7 +3,7 @@
 <head>
     <title>Bootstrap Page Design</title>
     
-    <link rel="stylesheet" type="text/css" href="http://localhost/local-cdn/bootstrap-3.3.4-dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -44,13 +44,13 @@
             </pre>
         </div>
          <div class="col-md-8">
-            <img src="websta.jpg" class="img-responsive"/>
+            <img src="/img/websta.jpg" class="img-responsive"/>
         </div>
    </div>
     <!-- row 4 -->
    <div class="row">
         <div class="col-md-3">
-            <img src="play.png" class="img-responsive"/>
+            <img src="/img/play.png" class="img-responsive"/>
         </div>
         <div class="col-md-6">
             <blockquote> 
@@ -59,7 +59,7 @@
             </blockquote>
         </div>
         <div class="col-md-3">
-            <img src="logo1.png" class="img-responsive"/>
+            <img src="/img/logo1.png" class="img-responsive"/>
         </div>
    </div>
     <!-- row 5 -->
@@ -165,7 +165,7 @@
     <!-- row 9 -->
    <footer class="row jumbotron">
         <div class="col-md-2">
-            <img src="tw.png" class="img-responsive"/>
+            <img src="/img/tw.png" class="img-responsive"/>
         </div>
         <div class="col-md-7">
             <ul class="list-unstyled list-inline">
@@ -186,7 +186,7 @@
    </footer>
    
 </div>
-<script src="http://localhost/local-cdn/jquery/jquery-1.11.3.min.js"></script>
-<script src="http://localhost/local-cdn/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 </body>
 </html>

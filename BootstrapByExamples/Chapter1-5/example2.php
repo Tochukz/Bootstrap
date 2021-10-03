@@ -2,8 +2,8 @@
 <html>
 <head lang="en">
     <title>Bootstrap By Example </title>
-    <link rel="stylesheet" type="text/css" href="http://localhost/local-cdn/bootstrap-3.3.4-dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/css/base.css" />
     <meta name="X-UA-Compatible" content="IE=egde" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     
@@ -202,7 +202,7 @@ function _(id){
     </footer>
 </div>
 
-<script src="img/http://localhost/local-cdn/jquery/jquery-1.11.3.min.js"></script>
-<script src="img/http://localhost/local-cdn/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 </body>
 </html>
